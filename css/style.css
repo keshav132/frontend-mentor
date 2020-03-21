@@ -1,0 +1,181 @@
+body{
+  background-color: #f4f3f3;
+  text-align: center;
+}
+.heading_reli{
+  padding-top: 30px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 100;
+  color: #706c61;
+margin: 0 auto 0 auto;
+width: 33%;
+font-size: 2rem;
+}
+.heading_power{
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  margin: 0 auto 0 auto;
+width: 30%;
+color: #333333;
+font-size: 2rem;
+}
+.para_onetop{
+  font-family: 'poppins' , sans-sans-serif;
+  margin: 0 auto 0 auto;
+  color: #706c61;
+  width: 40%;
+}
+.supervisor{
+  font-family: 'poppins' , sans-sans-serif;
+  height: 300px;
+  width: 300px;
+  background-color: #fffafa;
+border-radius: 20px;
+margin-left: 100px;
+margin-top: 0;
+position: relative;
+top: 280px;
+left: 80px;
+}
+.supervisor_heading{
+  margin-top: 0;
+  position: relative;
+  right: 50px;
+  bottom: 50px;
+color: #333333;
+}
+.supervisor_img{
+  position: relative;
+  top: 200px;
+  left: 100px;
+}
+.supervisor_para{
+  position: relative;
+  bottom: 30px;
+  right: 10px;
+  color: #706c61;
+width: 90%;
+}
+.top_div_supervisor{
+  height: 5px;
+  width: 90%;
+  background-color: #98d6ea;
+border-radius: 50px;
+margin-left: 10px;
+}
+
+.team_builder{
+  font-family: 'poppins' , sans-sans-serif;
+  height: 300px;
+  width: 300px;
+  background-color: #fffafa;
+border-radius: 20px;
+margin-left: 100px;
+margin-top: 0;
+position: relative;
+bottom: 200px;
+right: 60px;
+
+}
+.team_builder_heading{
+  margin-top: 0;
+  position: relative;
+  right: 50px;
+  bottom: 50px;
+color: #333333;
+}
+.team_builder_para{
+  position: relative;
+  bottom: 30px;
+  right: 10px;
+  color: #706c61;
+width: 90%;
+}
+.team_builder_img{
+  position: relative;
+  top: 200px;
+  left: 100px;
+}
+.top_div_team_builder{
+  height: 5px;
+  width: 90%;
+  background-color: #ff1e56;
+border-radius: 50px;
+margin-left: 10px;
+}
+.karma{
+  font-family: 'poppins' , sans-sans-serif;
+  height: 300px;
+  width: 300px;
+  background-color: #fffafa;
+border-radius: 20px;
+margin-left: 100px;
+margin-top: 30px;
+position: relative;
+bottom: 200px;
+right: 60px;
+
+}
+.karma_heading{  margin-top: 0;
+  position: relative;
+  right: 50px;
+  bottom: 50px;
+color: #333333;}
+.karma_para{
+  position: relative;
+  bottom: 30px;
+  right: 10px;
+  color: #706c61;
+width: 90%;
+}
+.karma_img{
+  position: relative;
+  top: 200px;
+  left: 100px;
+}
+.top_div_karma{
+  height: 5px;
+  width: 90%;
+  background-color: #feb72b;
+border-radius: 50px;
+margin-left: 10px;
+}
+
+.calculator{
+  font-family: 'poppins' , sans-sans-serif;
+  height: 300px;
+  width: 300px;
+  background-color: #fffafa;
+border-radius: 20px;
+margin-left: 100px;
+margin-top: 0;
+position: relative;
+left: 730px;
+bottom: 650px;
+}
+.calculator_heading{
+  margin-top: 0;
+    position: relative;
+    right: 50px;
+    bottom: 50px;
+  color: #333333;
+}
+.calculator_para{
+  position: relative;
+  bottom: 30px;
+  left: 20px;
+  color: #706c61;
+width: 90%;
+}
+.calculator_img{
+  position: relative;
+  top: 200px;
+  left: 100px;
+}
+.top_div_calculator{
+  height: 5px;
+  width: 90%;
+  background-color: #1eb2a6;
+border-radius: 50px;
+margin-left: 10px;
+}
